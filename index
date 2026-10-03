@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>División Clientes</title>
+  <style>
+    html, body {
+      margin: 0;
+      padding: 0;
+      width: 100%;
+      height: 100%;
+      overflow: hidden;
+      background-color: #f8f9fa;
+    }
+    iframe {
+      width: 100vw;
+      height: 100vh;
+      border: none;
+      display: block;
+    }
+  </style>
+</head>
+<body>
+  <iframe src="https://script.google.com/a/macros/confianza.pe/s/AKfycbx321fXqLQZLHTkTD9CKN6lCV999sPjXhvkNifZMgyXRQe8yRKxDo4MCPyU3wXL_oFK/exec"></iframe>
+</body>
+</html>
